@@ -1,13 +1,7 @@
-Below is a professionally customized README file for your GitHub repository:
-
----
-
-# VIT Interview Experiences
-
+# VIT Interview Experiences 🚀🚀🚀🚀
 **VIT Interview Experiences** is a web application designed exclusively for VIT University students. It provides a platform to share and access real-world interview experiences, enabling students to prepare effectively for job interviews while learning from their peers.
 
 ## Visit Application at : - https://vitinterview.vercel.app/
-
 ---
 <img width="1418" alt="Screenshot 2025-03-25 at 10 22 51 PM" src="https://github.com/user-attachments/assets/6713c36f-e717-4998-bcb9-48927c30c48e" />
 <img width="1417" alt="Screenshot 2025-03-25 at 10 23 03 PM" src="https://github.com/user-attachments/assets/e129a4b8-60ae-4a34-aa10-3dd0819bcf49" />
@@ -349,7 +343,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please open an issue in this repository or contact the maintainer at [your_email@vitstudent.ac.in](mailto:your_email@vitstudent.ac.in).
+For questions or feedback, please open an issue in this repository or contact the maintainer at [your_email@vitstudent.ac.in](mailto:vitexperince@gmail.com).
 
 ---
 
