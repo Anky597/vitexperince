@@ -7,7 +7,11 @@ Below is a professionally customized README file for your GitHub repository:
 **VIT Interview Experiences** is a web application designed exclusively for VIT University students. It provides a platform to share and access real-world interview experiences, enabling students to prepare effectively for job interviews while learning from their peers.
 
 ---
-
+<img width="1418" alt="Screenshot 2025-03-25 at 10 22 51 PM" src="https://github.com/user-attachments/assets/6713c36f-e717-4998-bcb9-48927c30c48e" />
+<img width="1417" alt="Screenshot 2025-03-25 at 10 23 03 PM" src="https://github.com/user-attachments/assets/e129a4b8-60ae-4a34-aa10-3dd0819bcf49" />
+<img width="1422" alt="Screenshot 2025-03-25 at 10 23 18 PM" src="https://github.com/user-attachments/assets/48147901-e63b-479c-a0b9-3890712e8462" />
+<img width="1411" alt="Screenshot 2025-03-25 at 10 23 32 PM" src="https://github.com/user-attachments/assets/89215f53-da91-41d3-a192-13628a8711aa" />
+<img width="1424" alt="Screenshot 2025-03-25 at 10 23 53 PM" src="https://github.com/user-attachments/assets/a5025c87-e769-4ba8-9d97-69d03bb8b7f0" />
 
 
 ## Table of Contents
