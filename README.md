@@ -343,7 +343,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please open an issue in this repository or contact the maintainer at [your_email@vitstudent.ac.in](mailto:vitexperince@gmail.com).
+For questions or feedback, please open an issue in this repository or contact the maintainer at [vitexperince@gmail.com](mailto:vitexperince@gmail.com).
 
 ---
 
